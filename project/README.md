@@ -10,10 +10,10 @@ their required products on our portal, for a lower price, from all the products 
 uploaded here by the people who no longer need it.
 
 Login Page
-<img width="957" alt="1" src="![image](https://user-images.githubusercontent.com/96625003/202918203-79194a53-a1b1-4a06-945d-242a639fffbc.png)">
+<img width="957" alt="1" src="https://user-images.githubusercontent.com/96625003/202918203-79194a53-a1b1-4a06-945d-242a639fffbc.png">
 
 Different features on seller module:
-<img width="957" alt="1" src="![image](https://user-images.githubusercontent.com/96625003/202918296-c1b4d284-add7-45a2-8ae4-7f2a254766a1.png">
+<img width="957" alt="1" src="https://user-images.githubusercontent.com/96625003/202918296-c1b4d284-add7-45a2-8ae4-7f2a254766a1.png">
 
 
 <img width="917" alt="2" src="https://user-images.githubusercontent.com/96625003/202918449-9227cd70-8444-4413-ac45-cd4b6705f952.png">
@@ -23,7 +23,7 @@ Different features on seller module:
 
 Different features on buyer module:
 
-<img width="957" alt="1" src="![image](https://user-images.githubusercontent.com/96625003/202918492-03ee1efe-1c73-40e7-ac64-d7455e4026c5.png)">
+<img width="957" alt="1" src="https://user-images.githubusercontent.com/96625003/202918492-03ee1efe-1c73-40e7-ac64-d7455e4026c5.png">
 
 
 <img width="917" alt="2" src="https://user-images.githubusercontent.com/96625003/202918565-54afc826-d507-4dbe-9ada-c3907f6419a0.png">
