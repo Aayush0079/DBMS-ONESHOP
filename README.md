@@ -23,7 +23,8 @@ Different features on seller module:
 
 Different features on buyer module:
 
-<img width="957" alt="1" src="https://user-images.githubusercontent.com/96625003/202918492-03ee1efe-1c73-40e7-ac64-d7455e4026c5.png">
+![image](https://user-images.githubusercontent.com/96625003/205456804-6252e7e4-9dce-4d03-8b63-ac8ecc5c4243.png)
+
 
 
 <img width="917" alt="2" src="https://user-images.githubusercontent.com/96625003/202918565-54afc826-d507-4dbe-9ada-c3907f6419a0.png">
